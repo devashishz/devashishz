@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devashishz
-- 👀 I’m interested in Data Science ,Python Development and Machine Learning Models
+- 👀 I’m interested in Data Science , Machine Learning , Deep Learning and AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on DS projects
 - 📫 Reach me @ devashishbhaskar@gmail.com
