@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devashishz
-- 👀 I’m interested in Data Science , Machine Learning , Deep Learning and AI
-- 🌱 I’m currently learning AI
+- 👀 I’m interested in Data Science , Big Data and Apache Spark.
+- 🌱 I’m currently working on Palantir and Pyspark.
 - 💞️ I’m looking to collaborate on DS projects
 - 📫 Reach me @ devashishbhaskar@gmail.com
 
